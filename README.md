@@ -2,4 +2,4 @@
 Final project at ariel university
 
 
-[embed]https://github.com/dvir-shaul/Learning-to-learn/blob/main/Poster.pdf[/embed]
+![poster](https://ibb.co/cTWgb5b)
